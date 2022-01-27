@@ -1,0 +1,2 @@
+(this["webpackJsonpsample-react"]=this["webpackJsonpsample-react"]||[]).push([[8],{315:function(e,t,s){"use strict";s.r(t);s(1);var c=s(6),a=s(0);t.default=function(){return Object(a.jsx)("div",{children:Object(a.jsx)(c.b,{})})}}}]);
+//# sourceMappingURL=8.d0d62f0b.chunk.js.map
